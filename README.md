@@ -6,7 +6,7 @@
 ----------
 
 #####1.JM系列
-![这里写图片描述](https://img-blog.csdn.net/20180722145055331?watermark/2/text/aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3FxXzI1MzI3NjA5/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70)
+![这里写图片描述](https://github.com/xugongming38/Daigou-Z/blob/master/a.png)
 #######功效说明
 > 1.JM珍珠三部曲-美白提亮效果明显
 > 2.JM紧急补水-极速补水，紧致提拉
